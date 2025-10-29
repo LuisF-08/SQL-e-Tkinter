@@ -1,0 +1,6 @@
+sqlite3
+psycopg2-binary
+pymongo
+tkinter
+requests
+sqlalchemy
