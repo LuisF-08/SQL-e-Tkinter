@@ -186,9 +186,6 @@ Se a interface abrir normalmente, o build foi concluído com sucesso ✅
 **Luís Filipe**
 💡 Desenvolvedor em aprendizado contínuo.
 🔗 [GitHub](https://github.com/LuisF-08)
-
----
-
 ## 🏷️ Tags
 
 #Python #Tkinter #SQLAlchemy #SQLite #PostgreSQL #MongoDB #InterfaceGrafica #CRUD #Database #Learning
